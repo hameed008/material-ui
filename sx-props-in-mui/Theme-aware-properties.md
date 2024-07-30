@@ -56,7 +56,7 @@ const YourComponent = () => {
 
 ## Example with Tailwind CSS
 
-Tailwind CSS is a [utility-first CSS framework](utility-first-css-framework) that allows you to configure your design system via a configuration file. You can define a theme with custom colors, spacing, and other utilities.
+Tailwind CSS is a [utility-first CSS framework](utility-first-css-framework.md) that allows you to configure your design system via a configuration file. You can define a theme with custom colors, spacing, and other utilities.
 **1. Defining a Theme:**
 In `tailwind.config.js`, define your theme:
 
